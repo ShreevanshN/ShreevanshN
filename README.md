@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShreevanshN
 - 👀 I’m interested in AI & ML
-- 🌱 I’m currently pursuing B.Tech 2nd Year
+- 🌱 I’m currently pursuing B.Tech 3rd Year
 - 💞️ I’m looking to collaborate on Web Develpment & ML Algorithms 
 - 📫 How to reach me +91-9121991438 ping me @mr_vampire_23
 - 😄 Pronouns: ...
